@@ -27,8 +27,9 @@ p {
 }
 
 h3 {
-    color: burlywood;
+    color: brown;
     font-family: sans-serif; 
+    background-color: burlywood;
 }
 
 a {
@@ -42,13 +43,11 @@ a {
 div {
     background-color: brown;
     text-align: left;
-    width: 500px;
-
 }
 .para {
     font-size: 35px;
     font-family: |"Times new roman";
-    text-align:left;
+    text-align: left;
     color:#ffb366;
 }
 img {
@@ -59,9 +58,7 @@ img {
 .darker {
     color: #1a0d00;
 }
-.button {
-    color: burlywood;
-    background: brown;
-    text-align: center;
-    font-size: 40px;
+.close {
+    text-align: left;
+    width: 500px;
 }
