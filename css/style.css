@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: #fff;
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: 'Gayathri' sans-serif;
 }
 
 h1 {
@@ -61,4 +61,31 @@ img {
 .close {
     text-align: left;
     width: 500px;
+}
+.learn {
+    display: inline-block;
+    background-color: brown;
+    color: burlywood;
+    padding: 25px 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border
+}
+.learn:hover {
+    background-color: burlywood;
+    color: brown;
+}
+.close:hover {
+    background-color: brown;
+    color: burlywood;
+}
+.only {
+    display: inline-block;
+    font-size:60px;
+    color: brown;
+    padding: 50px;
+    background-color: burlywood;
+    margin: 20px;
+    border:10px solid brown;
+    
 }

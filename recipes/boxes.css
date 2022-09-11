@@ -1,0 +1,65 @@
+
+
+
+.button {
+    background-color: lightblue;
+    color: black;
+    padding: 25px 75px;
+    display: inline-block;
+    border: 3px solid gray;
+    margin: 70px;
+}
+.button:hover {
+    background-color: yellowgreen;
+
+}
+.first {
+    display: inline-block;
+background-color: aqua;
+border: 5px solid gray;
+padding: 100px;
+height: 250px;
+width: 250px;
+margin: 150px;
+font-size: px;
+
+}
+.second { 
+ display: inline-block;
+background-color: rgb(188, 198, 228);
+border: 5px solid gray;
+padding: 100px;
+height: 250px;
+width: 250px;
+margin: 70px;
+}
+.third {
+ display: inline-block;
+background-color: rgb(219, 155, 139);
+border: 5px solid gray;
+padding: 100px;
+height: 250px;
+width: 250px; 
+margin: 120px;
+} 
+.third:hover {
+    background-color: yellowgreen;
+}
+.first:hover {
+    background-color: yellowgreen;
+}
+.second:hover {
+    background-color: yellowgreen;
+}
+.head {
+    font-size: 100px;
+    margin: 70px;
+}
+.yellow {
+    background-color: wheat;
+    display: inline-block;
+}
+.blue {
+    background-color: khaki;
+    display: inline-block;
+}
